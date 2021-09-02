@@ -1,1 +1,2 @@
 Hi This is master branch 
+Hi file is edited in branch 2 
