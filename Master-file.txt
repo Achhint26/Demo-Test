@@ -1,4 +1,4 @@
 Hi This is master branch 
 Hi file is edited in branch 2 
 This line is added from  branch 1
-
+From Branch 2 , To create conflict
